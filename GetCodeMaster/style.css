@@ -1,0 +1,140 @@
+/*
+
+    
+ $$$$$$\            $$\     $$$$$$\                 $$\           $$\      $$\                      $$\                              $$\       
+$$  __$$\           $$ |   $$  __$$\                $$ |          $$$\    $$$ |                     $$ |                             $$ |      
+$$ /  \__| $$$$$$\$$$$$$\  $$ /  \__|$$$$$$\   $$$$$$$ | $$$$$$\  $$$$\  $$$$ | $$$$$$\   $$$$$$$\$$$$$$\   $$$$$$\   $$$$$$\        $$ |      
+$$ |$$$$\ $$  __$$\_$$  _| $$ |     $$  __$$\ $$  __$$ |$$  __$$\ $$\$$\$$ $$ | \____$$\ $$  _____\_$$  _| $$  __$$\ $$  __$$\       $$ |      
+$$ |\_$$ |$$$$$$$$ |$$ |   $$ |     $$ /  $$ |$$ /  $$ |$$$$$$$$ |$$ \$$$  $$ | $$$$$$$ |\$$$$$$\   $$ |   $$$$$$$$ |$$ |  \__|      \__|      
+$$ |  $$ |$$   ____|$$ |$$\$$ |  $$\$$ |  $$ |$$ |  $$ |$$   ____|$$ |\$  /$$ |$$  __$$ | \____$$\  $$ |$$\$$   ____|$$ |                      
+\$$$$$$  |\$$$$$$$\ \$$$$  \$$$$$$  \$$$$$$  |\$$$$$$$ |\$$$$$$$\ $$ | \_/ $$ |\$$$$$$$ |$$$$$$$  | \$$$$  \$$$$$$$\ $$ |            $$\       
+ \______/  \_______| \____/ \______/ \______/  \_______| \_______|\__|     \__| \_______|\_______/   \____/ \_______|\__|            \__|      
+             
+
+*/
+
+
+#mainNav
+{
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+header {
+    padding-top: 2rem;
+    padding-bottom: 5rem;
+}
+
+aside {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+}
+
+footer
+{
+    padding-top: 6rem !important;
+    padding-bottom: 3rem !important;
+
+
+
+}
+
+
+#inscription,#contact
+{
+    padding-left: 10rem;
+    padding-right: 10rem;
+    padding-bottom: 5rem; 
+}
+
+
+
+#tuto
+{
+    padding-left: 10rem;
+    padding-right: 10rem;
+}
+
+
+
+#LastSection 
+{
+    padding-top: 10rem;
+    padding-bottom: 20rem; 
+}
+
+.bg-gradient-primary-to-secondary {
+    background: linear-gradient(45deg, #000766, #f1f1f1) !important;
+  }
+
+@font-face {
+    font-family: RobotoRegular ;
+    src: url('Roboto/Roboto-Regular.ttf') format('ttf'),
+         url('Roboto/Roboto-Regular.svg') format('svg');
+}
+
+@font-face {
+    font-family: RobotoMedium ;
+    src: url('Roboto/Roboto-Medium.ttf') format('ttf'),
+         url('Roboto/Roboto-Medium.svg') format('svg');
+}
+
+@font-face {
+    font-family: RobotoItalic ;
+    src: url('Roboto/Roboto-Italic.ttf') format('ttf'),
+         url('Roboto/Roboto-Light.svg') format('svg');
+}
+
+@font-face {
+    font-family: RobotoBold ;
+    src: url('Roboto/Roboto-Bold.ttf') format('ttf'),
+         url('Roboto/Roboto-Bold.svg') format('svg');
+}
+
+@font-face {
+    font-family: RobotoBlack ;
+    src: url('Roboto/Roboto-Black.ttf') format('ttf'),
+         url('Roboto/Roboto-BlackItalic.svg') format('svg');
+}
+
+
+h1
+{
+
+}
+
+h2 
+{
+
+}
+
+h3
+{
+
+}
+
+p
+{
+    font-family: RobotoRegular;
+}
+
+em
+{
+    font-family: RobotoBlack ;
+}
+
+i
+{
+    font-family: RobotoItalic ;
+}
+
+
+strong 
+{
+    font-family: RobotoBold;
+}
+
+
+
+
+  
