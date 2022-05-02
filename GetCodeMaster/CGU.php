@@ -58,6 +58,10 @@ $$ |  $$ |$$   ____|$$ |$$\$$ |  $$\$$ |  $$ |$$ |  $$ |$$   ____|$$ |\$  /$$ |$
             <li class="nav-item">
               <a class="nav-link" href="Contact.html">Contact</a>
             </li>
+              
+            <li class="nav-item">
+              <a class="nav-link" href="Connexion.php">Connexion</a>
+            </li>
           </ul>
   
           <!-- Icons -->
